@@ -1,4 +1,4 @@
-# Yo.
+# Yo
 
 ### I'm Johannes, my real name is not Johannes but I use Johannes here
 (haha u cant dox me)
@@ -15,3 +15,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/possiblyjohannes/possiblyjohannes/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/possiblyjohannes/possiblyjohannes/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
